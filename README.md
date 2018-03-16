@@ -53,5 +53,5 @@
 
 **Link**: https://github.com/daolq3012/IOSTraining/pull/8
 
-## Propject
+## Project
 TBD
