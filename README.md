@@ -49,7 +49,7 @@
 
 **Link**: https://github.com/daolq3012/IOSTraining/pull/7
 
-### 7. Lesion 7: Notification (Local, Remote)/ Sqlite
+### 7. Lesion 7: Notification (Local, Remote)/ Sqlite/ Core Data
 
 **Link**: https://github.com/daolq3012/IOSTraining/pull/8
 
